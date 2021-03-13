@@ -1,0 +1,47 @@
+body {
+    margin:50px 0px; padding:0px;
+    text-align:center;
+    text-align:center;
+    background-image: url("images/WhatsApp Image 2021-03-13 at 2.08.44 PM.jpeg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position-x: center;
+    
+}
+.heading1{
+    text-align: center;
+}
+#myForm{
+    object-position: 50% 50%;
+   
+    background-color: transparent; 
+}
+#button{
+    background-color: grey;
+}
+#button:hover{
+    background-color: blue;
+}
+.resp-container{
+    position: fixed;
+  bottom: 0%;
+  right: 100;
+  overflow: hidden;
+
+}
+#contact{
+    position: fixed;
+    bottom: 15%;
+    left:20%;
+    background-color: transparent; 
+   
+}
+#contact:hover{
+    background-color: blueviolet;
+}
+.mail-link{
+    text-decoration: none;
+    color:black;
+    font-size: large;
+    font-weight: bold;
+}
